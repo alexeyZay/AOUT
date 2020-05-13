@@ -1,0 +1,13 @@
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.exe
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.deps.json
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.runtimeconfig.json
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.runtimeconfig.dev.json
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.dll
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\bin\Debug\netcoreapp3.1\ArtOfUnitTesting.pdb
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.csproj.CoreCompileInputs.cache
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.AssemblyInfoInputs.cache
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.AssemblyInfo.cs
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.dll
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.pdb
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.genruntimeconfig.cache
+Z:\C#\aout_repo\ArtOfUnitTesting\ArtOfUnitTesting\obj\Debug\netcoreapp3.1\ArtOfUnitTesting.csprojAssemblyReference.cache
