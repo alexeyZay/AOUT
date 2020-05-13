@@ -6,14 +6,14 @@ namespace logAn
     {
         public bool IsFileNameValid (string fileName)
         {
-            FileExtentionManager mngr = new FileExtentionManager();
+            IFileExtentionManager mngr = new FileExtentionManager();
             
             return mngr.IsValid(fileName);
         }
     }
-    public class FileExtentionManager 
+    public class FileExtentionManager : IFileExtentionManager
     {
-        internal bool IsValid(string fileName)
+        public bool IsValid(string fileName)
         {
             if (String.IsNullOrEmpty(fileName))
             {
@@ -25,5 +25,9 @@ namespace logAn
             }
             return true;
         }
+    }
+    public interface IFileExtentionManager
+    {
+        bool IsValid(string fileName);
     }
 }
