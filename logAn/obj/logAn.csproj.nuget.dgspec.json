@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj": {}
+    "Z:\\AOUT\\logAn\\logAn.csproj": {}
   },
   "projects": {
-    "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj": {
+    "Z:\\AOUT\\logAn\\logAn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj",
+        "projectUniqueName": "Z:\\AOUT\\logAn\\logAn.csproj",
         "projectName": "logAn",
-        "projectPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj",
+        "projectPath": "Z:\\AOUT\\logAn\\logAn.csproj",
         "packagesPath": "C:\\Users\\mybox\\.nuget\\packages\\",
-        "outputPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\obj\\",
+        "outputPath": "Z:\\AOUT\\logAn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mybox\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qwt9JWdk0U0NpUmGCCkxQpyx2f2sfx9ehCtprAUHqXPpHKUnyZnadEnHOEb9zZf3OPzbkS1zyxLoWVqVMUkSzg==",
+  "dgSpecHash": "jmw1YWcwP7fawKVo0W9Ca6bbCsa4wH6I/Ao4iUkSGrik744h0ffzVaP/wyK6iODm1mbVerAvuT4jA8ygy7p+sg==",
   "success": true,
-  "projectFilePath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\Calculator\\Calculator.csproj",
+  "projectFilePath": "Z:\\AOUT\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

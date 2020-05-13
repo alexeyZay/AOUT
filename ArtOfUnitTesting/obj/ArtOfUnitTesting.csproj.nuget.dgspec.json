@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj": {}
+    "Z:\\AOUT\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj": {}
   },
   "projects": {
-    "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj": {
+    "Z:\\AOUT\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj",
+        "projectUniqueName": "Z:\\AOUT\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj",
         "projectName": "ArtOfUnitTesting",
-        "projectPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj",
+        "projectPath": "Z:\\AOUT\\ArtOfUnitTesting\\ArtOfUnitTesting.csproj",
         "packagesPath": "C:\\Users\\mybox\\.nuget\\packages\\",
-        "outputPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\ArtOfUnitTesting\\obj\\",
+        "outputPath": "Z:\\AOUT\\ArtOfUnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mybox\\AppData\\Roaming\\NuGet\\NuGet.Config",

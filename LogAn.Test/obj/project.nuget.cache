@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A2PMPTWWix8HZsMPE7dnRo/hN64ZSUqv/rDS8VEz6h+gRnCDfEGEPMOkEDvXD67EJzdpdJf+6raGSHPaajl11g==",
+  "dgSpecHash": "hme/uhr5fVfMqRRB/0fPSzaJ054WApzLhCmWWBHHG80boVr8po1LHLRDL0+0k21M3vwGwwsLqRclbjlDit9M1g==",
   "success": true,
-  "projectFilePath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\LogAn.Test\\LogAn.Test.csproj",
+  "projectFilePath": "Z:\\AOUT\\LogAn.Test\\LogAn.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mybox\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\mybox\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

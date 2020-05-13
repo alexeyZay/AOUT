@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "Z:\\AOUT\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\Calculator\\Calculator.csproj",
+      "projectPath": "Z:\\AOUT\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\mybox\\.nuget\\packages\\",
-      "outputPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\Calculator\\obj\\",
+      "outputPath": "Z:\\AOUT\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mybox\\AppData\\Roaming\\NuGet\\NuGet.Config",

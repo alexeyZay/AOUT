@@ -4671,11 +4671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\LogAn.Test\\LogAn.Test.csproj",
+      "projectUniqueName": "Z:\\AOUT\\LogAn.Test\\LogAn.Test.csproj",
       "projectName": "LogAn.Test",
-      "projectPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\LogAn.Test\\LogAn.Test.csproj",
+      "projectPath": "Z:\\AOUT\\LogAn.Test\\LogAn.Test.csproj",
       "packagesPath": "C:\\Users\\mybox\\.nuget\\packages\\",
-      "outputPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\LogAn.Test\\obj\\",
+      "outputPath": "Z:\\AOUT\\LogAn.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mybox\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4691,8 +4691,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj": {
-              "projectPath": "Z:\\C#\\aout_repo\\ArtOfUnitTesting\\logAn\\logAn.csproj"
+            "Z:\\AOUT\\logAn\\logAn.csproj": {
+              "projectPath": "Z:\\AOUT\\logAn\\logAn.csproj"
             }
           }
         }
