@@ -15,9 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{A928347E-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calc", "Calc", "{8961B3F6-844C-46B1-8627-1EE4F8D472E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{B664A785-8330-4A93-A8B7-21F467409284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{B664A785-8330-4A93-A8B7-21F467409284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calulator.test", "Calulator.test\Calulator.test.csproj", "{77D67CAC-A4AA-4B2B-BE03-9B66B8B1022D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calulator.test", "Calulator.test\Calulator.test.csproj", "{77D67CAC-A4AA-4B2B-BE03-9B66B8B1022D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

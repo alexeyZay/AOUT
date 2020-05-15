@@ -4,12 +4,30 @@ namespace logAn
 {
     public class LogAnalyzer
     {
-        public bool IsFileNameValid (string fileName)
+        #region Constractor injection
+        //case with constructor injection
+        //constructors
+        public LogAnalyzer() { }
+        public LogAnalyzer(IFileExtentionManager mgr)
         {
-            IFileExtentionManager mngr = new FileExtentionManager();
-            
-            return mngr.IsValid(fileName);
+            manager = mgr;
         }
+
+        IFileExtentionManager manager;
+        public bool IsFileNameValid(string fileName)
+        {
+            return manager.IsValid(fileName);
+        }
+        #endregion
+        #region method injection
+        // method injection
+        //public bool IsFileNameValid (string fileName)
+        //{
+        //    IFileExtentionManager mngr = new FileExtentionManager();
+
+        //    return mngr.IsValid(fileName);
+        //}
+        #endregion
     }
     public class FileExtentionManager : IFileExtentionManager
     {
@@ -23,6 +41,13 @@ namespace logAn
             {
                 return false;
             }
+            return true;
+        }
+    }
+    public class StabFileExtentionManager : IFileExtentionManager
+    {
+        public bool IsValid (string fileName)
+        {
             return true;
         }
     }

@@ -32,5 +32,17 @@ namespace LogAn.Test
         {
             my_loganalyzer = null;
         }
+        [Test]
+        public void IsFileNameValide_NameLessThen6CharsButExtensionIsValid_ReturnFalse()
+        {
+            //initializing stub
+            stubExtentionManager fakeManager = new stubExtentionManager();
+            fakeManager.ShouldExtensionBeValid = true;
+            LogAnalyzer log = new LogAnalyzer(fakeManager);
+            //executing test
+            bool result = log.IsFileNameValid("short.SLF");
+            //Assert
+            Assert.IsTrue(result, "file name with less then 5 chars should fale the test even exetension is correct");
+        }
     }
 }

@@ -7,3 +7,12 @@ Z:\C#\aout_repo\ArtOfUnitTesting\logAn\obj\Debug\netcoreapp3.1\logAn.AssemblyInf
 Z:\C#\aout_repo\ArtOfUnitTesting\logAn\obj\Debug\netcoreapp3.1\logAn.dll
 Z:\C#\aout_repo\ArtOfUnitTesting\logAn\obj\Debug\netcoreapp3.1\logAn.pdb
 Z:\C#\aout_repo\ArtOfUnitTesting\logAn\obj\Debug\netcoreapp3.1\logAn.csprojAssemblyReference.cache
+Z:\AOUT\logAn\bin\Debug\netcoreapp3.1\logAn.deps.json
+Z:\AOUT\logAn\bin\Debug\netcoreapp3.1\logAn.dll
+Z:\AOUT\logAn\bin\Debug\netcoreapp3.1\logAn.pdb
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.csprojAssemblyReference.cache
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.csproj.CoreCompileInputs.cache
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.AssemblyInfoInputs.cache
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.AssemblyInfo.cs
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.dll
+Z:\AOUT\logAn\obj\Debug\netcoreapp3.1\logAn.pdb
